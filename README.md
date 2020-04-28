@@ -21,4 +21,4 @@ I made this script today,expect more features to be added soon!
 * ./setup.sh
 
 ## Usage
-The usage is pretty simple. Just type >./staticot.sh and it will ask you for the file name / file path as well as the name you want for your report [dont add extension].It will automatically generate the report in the working directory.Make sure to change the virustotal API in case you face any errors since the free API is restricted to 4 requests per minute.
+The usage is pretty simple. Just type ./staticot.sh and it will ask you for the file name / file path as well as the name you want for your report [dont add extension].It will automatically generate the report in the working directory.Make sure to change the virustotal API in case you face any errors since the free API is restricted to 4 requests per minute.
