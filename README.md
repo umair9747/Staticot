@@ -6,11 +6,17 @@
 
 ## Features
 1.Find the md5 hash
+
 2.Extract the EXIF Data
+
 3.Extract the strings
+
 4.Find the total virustotal hits
+
 5.Make a combined report for the above as a txt file
+
 6.Make a report containing the json data of the whole virustotal scan
+
 
 I made this script today,expect more features to be added soon!
 
