@@ -1,3 +1,5 @@
+#!/bin/bash
+clear
 echo -e "\e[31mStarting with the installation process...\e[0m"
 sleep 5
 echo -e "\e[31mInstalling exiftool...\e[0m"
